@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+    background: linear-gradient(limegreen, white);
+}
+
+#C1 {
+    background: linear-gradient(white, limegreen);
+    color: black;
+    font-family: cursive;
+}
+.container{
+    color: black;
+    font-family: cursive;
+}
